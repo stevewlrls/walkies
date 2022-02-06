@@ -1,0 +1,10 @@
+.account-screen .address {
+   display: block; white-space: pre-line;
+   font-style: normal;
+}
+.account-screen textarea, .account-screen input {
+   width: 100%;
+}
+.account-screen textarea {
+   height: 7em;
+}

@@ -1,0 +1,9 @@
+.splash-screen .app-logo {
+   width: 80px; height: auto;
+}
+.splash-screen h1 {
+   text-align: center;
+}
+.splash-screen > form {
+   display: flex; flex-flow: column;
+}

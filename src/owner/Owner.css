@@ -1,0 +1,19 @@
+.owner-screen .account-info {
+   display: flex; flex-flow: row nowrap;
+   justify-content: space-between; align-items: center;
+   background-color: rgb(57, 102, 190); color: white;
+}
+.owner-screen .account-info .account-button {
+   cursor: pointer;
+}
+.owner-screen .next-walk {
+   margin: 1.0em 0px;
+   text-align: center;
+}
+.owner-screen h4 { margin-bottom: 0px; }
+.owner-screen .dog-list {
+   margin: 0px; padding: 0px; list-style-type: none;
+}
+.owner-screen .dog-list .schedule-days {
+   padding-left: 1.5rem;
+}
